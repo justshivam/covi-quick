@@ -2,6 +2,8 @@
 
 This is my submission for HackOdisha. It is a Covid detection website which performs covid test with the CT Scan Image of the person.The training notebook is included in the `training_notebook` folder.
 
+I could have made it more prettier, but the time wasn't enough.
+
 [Link-to-dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
 
 ### Steps-to-run
